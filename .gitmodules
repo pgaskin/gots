@@ -1,0 +1,15 @@
+[submodule "ots"]
+	path = ots
+	url = https://github.com/khaledhosny/ots.git
+[submodule "woff2"]
+	path = woff2
+	url = https://github.com/google/woff2.git
+[submodule "lz4"]
+	path = lz4
+	url = https://github.com/lz4/lz4.git
+[submodule "libz"]
+	path = libz
+	url = https://gitlab.com/sortix/libz.git
+[submodule "brotli"]
+	path = brotli
+	url = https://github.com/google/brotli
